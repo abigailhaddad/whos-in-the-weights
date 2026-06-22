@@ -69,8 +69,8 @@ athlete gap is real and unexplained by fame, article length, or namesakes.
 ## What predicts the score
 
 - **How often someone is looked up** (Wikipedia pageviews) tracks recognition — loosely.
-- **How much is written about them** (Wikipedia article length) predicts recognition about as well
-  as pageviews do.
+- **How much is written about them** (Wikipedia article length) predicts recognition at least as
+  well as pageviews — and within the well-known tier, somewhat better (r ≈ 0.30 vs 0.10).
 - **A shared full name** costs ~18 points (controlled test above).
 - **Public-domain text — tested and rejected.** A raw Project Gutenberg split looked huge
   (89 vs 61) but was a fame confound. Matching public-domain (died <1930) vs in-copyright
