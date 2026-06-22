@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Who's in the weights?</title>
+  <meta name="description" content="Ask 13 language models who a person is — some know far more people than others. A small experiment using intheweights.com.">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Who's in the weights?">
+  <meta property="og:description" content="Ask 13 language models who a person is — one knows almost everyone, another almost no one.">
+  <meta property="og:image" content="og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header class="hero">
+    <p class="kicker">A small experiment in language-model memory</p>
+    <h1>Who's in the weights?</h1>
+    <p class="dek">When a language model is trained, what it absorbs about the world gets baked
+      into its <strong>weights</strong> — the billions of numbers that hold everything it knows.
+      A person is <em>in the weights</em> if a model can recall them on its own, without looking
+      them up — but that's rarely all-or-nothing, so
+      <a href="https://intheweights.com">intheweights.com</a> asks 13 models how sure each is,
+      scoring its <strong>confidence</strong> from 0 to 100. (Combine a person's 13 confidences and
+      the site gives them one <strong>strength</strong> score; we work with the 13 underlying
+      numbers.) We ran <strong class="hint" data-tip="<strong>How we picked them.</strong> Every one is a real person with an English Wikipedia article, drawn from Wikidata across seven occupations — politicians, actors, musicians, athletes, scientists, journalists and novelists. We sorted them by fame using monthly Wikipedia pageviews, from well-known (hundreds to thousands of views a month) down to obscure (dozens). A few extra groups were picked for specific tests, like German footballers with common vs one-of-a-kind names. It's a deliberately wide spread from famous to obscure — not a random or representative sample."><span class="n-total">291</span> real
+      people</strong> through it — from household names to the genuinely obscure — and looked for
+      patterns.</p>
+  </header>
+
+  <section>
+    <h2>How the 13 models score one person</h2>
+    <p>Each model's confidence runs from <strong>0</strong> ("never heard of them") to
+      <strong>100</strong> ("sure who they are"). It's not yes-or-no, and it's not one verdict —
+      for the same person, the 13 answers can land anywhere from 0 to 100. Here's one person —
+      <span id="ex-desc">a Georgian judoka</span>:</p>
+    <div id="example-card" class="card"></div>
+    <p class="note">The bars are the 13 models' confidence. Some are sure; several have no idea who
+      he is — pooled together, those make up his <strong>strength</strong>. Now do this for
+      <span class="n-total">291</span> people.</p>
+  </section>
+
+  <section>
+    <h2>More looked up → better known, but loosely</h2>
+    <p>Each dot is one of <span id="n-scatter">185</span> people. Across the bottom: how often
+      they're looked up — their monthly
+      Wikipedia pageviews. Up the side: how well the 13 models know them, their 13 confidences
+      averaged into one score.
+      It climbs — household names sit near the top — but loosely: among the rarely-looked-up, the
+      models know some people surprisingly well and draw a blank on others just as obscure.</p>
+    <div id="gradient"></div>
+    <p class="note">Pageviews are on a log scale — each step right means about 10× more monthly
+      views, so the famous and the obscure fit on one chart. Hover any dot for who it is, its score,
+      and a Wikipedia preview; click through to the article.</p>
+  </section>
+
+  <section>
+    <h2>Some models are far more confident than others</h2>
+    <p>Average each model's confidence across the people we ran, and the averages run from one model
+      that's sure of almost everyone (about <span id="lineup-hi">90</span> out of 100, top) down to
+      one that's blank on almost everyone (about <span id="lineup-lo">18</span>, bottom). So how high
+      a person scores depends a lot on
+      <em>which model you ask</em>, not just on who the person is.</p>
+    <div id="model-lineup" class="lineup"></div>
+    <p class="note">Bar length = that model's average confidence across those people, 0–100. Hover a
+      model's name for its size and knowledge cutoff.</p>
+  </section>
+
+  <section>
+    <h2>But they mostly <em>rank</em> people the same way</h2>
+    <p>Scoring people high and ranking the same people high are two different things — a model can
+      hand out higher numbers across the board but still put the same people on top. So set the
+      overall levels aside and compare orderings: line up each model's people from best-known to
+      least-known. By that test the models match moderately well: a typical pair ranks the people
+      about <strong><span id="agree-mean">0.65</span></strong> alike, where <strong>1</strong> would mean identical orderings and
+      <strong>0</strong> means no relation at all. So they mostly agree on who is better-known than
+      whom, even where they disagree on the exact scores. The clear exception is the smallest
+      model, whose ordering barely matches the others.</p>
+    <div id="model-agreement" class="lineup"></div>
+    <p class="note" id="agree-note"></p>
+  </section>
+
+  <section>
+    <h2>Your line of work barely matters — except for athletes</h2>
+    <p>You might expect some kinds of people to live in the weights more than others. Mostly they
+      don't: split by occupation, recognition is strikingly flat — six of the seven groups sit
+      within a few points of each other, at broadly similar fame. The one clear exception is
+      athletes, who lag the rest. So apart from sport, what you did for a living barely changes
+      whether the models know you.</p>
+    <div id="occupations" class="lineup"></div>
+    <p class="note">Average recognition (0–100) per occupation, across the people we ran; their fame
+      is broadly similar across groups, so this isn't just a fame gap. Athletes (orange) stand out.</p>
+  </section>
+
+  <section>
+    <h2>A shared name costs you a little</h2>
+    <p>Does sharing your name with other notable people hurt? We compared German footballers whose
+      <em>full name</em> is theirs alone on Wikidata to ones whose <em>exact name</em> is shared by
+      several other notable people, matched on fame — so the only real difference is the name:</p>
+    <div id="name-experiment" class="predbars"></div>
+    <p class="note" id="name-exp-note"></p>
+  </section>
+
+  <section class="takeaway">
+    <h2>The short version</h2>
+    <p>Whether a model "knows" a person tracks how often the world <strong>looks them up</strong>
+      — loosely. A shared name hurts a bit. And while the 13 models broadly agree on who ranks as
+      better- or lesser-known, they differ enormously in how confident they are overall — so
+      whether a borderline person counts as "in the weights" still comes down to which model you
+      ask.</p>
+    <p class="note">Every number here describes <em>these <span class="n-total">291</span> people</em> — a deliberately wide
+      spread from famous to obscure, not a random or representative sample. Read them as
+      comparisons, not rates.</p>
+  </section>
+
+  <footer>
+    <p><span id="meta-line"></span> · <a href="https://github.com/abigailhaddad/whos-in-the-weights">Code &amp; data on GitHub</a></p>
+    <p class="fine">Model scores from <a href="https://intheweights.com">intheweights.com</a>.
+      The 0–100 numbers here are each model's own confidence — the building block intheweights
+      uses. Its headline "strength" score combines those across models (plus a bonus for how many
+      recognize you), so it's on a different scale than the numbers here. People sampled from
+      Wikidata and matched on Wikipedia pageviews; we chose the names and analyzed the results.
+      The models were run by intheweights.com and its outputs are non-deterministic (a model's
+      self-reported confidence is uncalibrated and can vary between runs).</p>
+  </footer>
+</main>
+<div id="wiki-card" aria-hidden="true"></div>
+<div id="tip" aria-hidden="true"></div>
+<script src="app.js"></script>
+</body>
+</html>

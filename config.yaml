@@ -1,0 +1,39 @@
+# Configuration for the "Who's in the weights?" experiment.
+#
+# The pipeline is INCREMENTAL: adding a category or fame tier here and re-running only
+# generates the new stuff. Sampling skips any tier that already has a data/names_<tier>.json,
+# and generation is cached per person (data/raw/<slug>.json), so existing work is never redone.
+# (To deliberately re-sample a tier, delete its data/names_<tier>.json first.)
+
+seed: 20260620
+
+# The groups we test. Wikidata occupation QIDs; every subject is instance-of-human (Q5) with
+# an English Wikipedia article — so "everyone is on Wikipedia" holds across groups.
+# Add a line to add a group.
+categories:
+  politician: Q82955
+  actor:      Q33999
+  musician:   Q639669
+  athlete:    Q2066131   # sportsperson
+  scientist:  Q901
+  journalist: Q1930187
+  novelist:   Q6625963
+
+# How people are chosen and how fame is held constant within a tier.
+sampling:
+  per_category: 12
+  pool_per_category: 140
+  prefer_unique_names: true     # avoid namesake confusion (one person per name)
+
+# Fame tiers. Within a tier, people are matched on monthly Wikipedia pageviews ("how often
+# people look them up"), drawn from that tier's Wikipedia-sitelink band (a notability floor).
+# Add a tier to test another fame level; existing tiers are left untouched on re-run.
+fame_tiers:
+  high:
+    label: "Well-known"
+    sitelink_band:  [22, 60]    # number of Wikipedia language editions
+    pageviews_band: [800, 7200] # avg monthly en.wikipedia pageviews
+  low:
+    label: "Obscure"
+    sitelink_band:  [5, 18]
+    pageviews_band: [50, 600]

@@ -1,0 +1,9 @@
+.venv/
+data/raw/
+__pycache__/
+*.pyc
+.playwright-mcp/
+
+.claude/settings.local.json
+card_fixed.png
+.vercel

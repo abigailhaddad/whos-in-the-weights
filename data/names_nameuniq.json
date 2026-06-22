@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Bill Raisch",
+    "category": "actor",
+    "wikipedia_title": "Bill_Raisch",
+    "wikidata_id": "Q14972",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1589,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "bill-raisch",
+    "occupations": [
+      "actor",
+      "dancer",
+      "film actor",
+      "television actor"
+    ]
+  },
+  {
+    "name": "Josh Sussman",
+    "category": "actor",
+    "wikipedia_title": "Josh_Sussman",
+    "wikidata_id": "Q23403",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1763,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "josh-sussman",
+    "occupations": [
+      "actor",
+      "film actor",
+      "television actor"
+    ]
+  },
+  {
+    "name": "Mohamed Waheed Hassan",
+    "category": "politician",
+    "wikipedia_title": "Mohamed_Waheed_Hassan",
+    "wikidata_id": "Q57515",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1817,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "mohamed-waheed-hassan",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Aidy Boothroyd",
+    "category": "athlete",
+    "wikipedia_title": "Aidy_Boothroyd",
+    "wikidata_id": "Q10611",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1839,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "aidy-boothroyd",
+    "occupations": [
+      "association football coach",
+      "association football player"
+    ]
+  },
+  {
+    "name": "Daniela Katzenberger",
+    "category": "actor",
+    "wikipedia_title": "Daniela_Katzenberger",
+    "wikidata_id": "Q22979",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1428,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "daniela-katzenberger",
+    "occupations": [
+      "actor",
+      "aesthetician",
+      "fashion model",
+      "model",
+      "singer",
+      "television actor",
+      "writer"
+    ]
+  },
+  {
+    "name": "Silvestre Varela",
+    "category": "athlete",
+    "wikipedia_title": "Silvestre_Varela",
+    "wikidata_id": "Q276402",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1427,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "silvestre-varela",
+    "occupations": [
+      "association football coach",
+      "association football player"
+    ]
+  },
+  {
+    "name": "Roman Neustädter",
+    "category": "athlete",
+    "wikipedia_title": "Roman_Neustädter",
+    "wikidata_id": "Q26233",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1389,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "roman-neust~e4~dter",
+    "occupations": [
+      "association football player"
+    ]
+  },
+  {
+    "name": "Karl Henry",
+    "category": "athlete",
+    "wikipedia_title": "Karl_Henry",
+    "wikidata_id": "Q19350",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1326,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "karl-henry",
+    "occupations": [
+      "association football player"
+    ]
+  },
+  {
+    "name": "Silvia Seidel",
+    "category": "actor",
+    "wikipedia_title": "Silvia_Seidel",
+    "wikidata_id": "Q75136",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1182,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "silvia-seidel",
+    "occupations": [
+      "actor",
+      "film actor",
+      "television actor"
+    ]
+  },
+  {
+    "name": "Dmitry Pozharsky",
+    "category": "politician",
+    "wikipedia_title": "Dmitry_Pozharsky",
+    "wikidata_id": "Q15756",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 2118,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "dmitry-pozharsky",
+    "occupations": [
+      "military personnel",
+      "politician",
+      "statesperson"
+    ]
+  },
+  {
+    "name": "Natalia Avelon",
+    "category": "actor",
+    "wikipedia_title": "Natalia_Avelon",
+    "wikidata_id": "Q77692",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1128,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "natalia-avelon",
+    "occupations": [
+      "actor",
+      "film actor",
+      "model",
+      "musician",
+      "singer"
+    ]
+  },
+  {
+    "name": "Armando Guebuza",
+    "category": "politician",
+    "wikipedia_title": "Armando_Guebuza",
+    "wikidata_id": "Q57392",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 2152,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "armando-guebuza",
+    "occupations": [
+      "President of the Republic",
+      "military personnel",
+      "minister",
+      "politician"
+    ]
+  },
+  {
+    "name": "Benoît Trémoulinas",
+    "category": "athlete",
+    "wikipedia_title": "Benoît_Trémoulinas",
+    "wikidata_id": "Q31907",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1101,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "beno~ee~t-tr~e9~moulinas",
+    "occupations": [
+      "association football player"
+    ]
+  },
+  {
+    "name": "Fleury Di Nallo",
+    "category": "athlete",
+    "wikipedia_title": "Fleury_Di_Nallo",
+    "wikidata_id": "Q4237",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1080,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "fleury-di-nallo",
+    "occupations": [
+      "association football player"
+    ]
+  },
+  {
+    "name": "Wayne Carpendale",
+    "category": "actor",
+    "wikipedia_title": "Wayne_Carpendale",
+    "wikidata_id": "Q98622",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1059,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "wayne-carpendale",
+    "occupations": [
+      "actor",
+      "film actor",
+      "stage actor",
+      "television presenter"
+    ]
+  },
+  {
+    "name": "Ernst I, Prince of Hohenlohe-Langenburg",
+    "category": "politician",
+    "wikipedia_title": "Ernst_I,_Prince_of_Hohenlohe-Langenburg",
+    "wikidata_id": "Q62480",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 2214,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "ernst-i~2c~-prince-of-hohenlohe~2d~langenburg",
+    "occupations": [
+      "aristocrat",
+      "major general",
+      "politician"
+    ]
+  },
+  {
+    "name": "Johan Micoud",
+    "category": "athlete",
+    "wikipedia_title": "Johan_Micoud",
+    "wikidata_id": "Q169995",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 2226,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "johan-micoud",
+    "occupations": [
+      "association football player",
+      "color commentator"
+    ]
+  },
+  {
+    "name": "Baldwin Spencer",
+    "category": "politician",
+    "wikipedia_title": "Baldwin_Spencer_(politician)",
+    "wikidata_id": "Q57602",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 1014,
+    "fame_tier": "nameuniq",
+    "fame_label": "Unique name",
+    "slug": "baldwin-spencer",
+    "occupations": [
+      "politician"
+    ]
+  }
+]

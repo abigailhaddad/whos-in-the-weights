@@ -1,0 +1,1260 @@
+{
+  "meta": {
+    "n_people": 291,
+    "n_models": 13,
+    "n_scatter": 185
+  },
+  "example": {
+    "name": "Lasha Bekauri",
+    "category": "athlete",
+    "descriptor": "Georgian Olympic judoka",
+    "top_percent": 9,
+    "bars": [
+      {
+        "model": "Google Gemini 3.1 Flash Lite",
+        "score": 100
+      },
+      {
+        "model": "Kimi K2 0905",
+        "score": 85
+      },
+      {
+        "model": "GPT-5.4 Mini",
+        "score": 92
+      },
+      {
+        "model": "GPT-5.5",
+        "score": 99
+      },
+      {
+        "model": "DeepSeek V4 Flash",
+        "score": 95
+      },
+      {
+        "model": "Claude Opus 4.8",
+        "score": 80
+      },
+      {
+        "model": "Z.ai GLM 4.7 Flash",
+        "score": 0
+      },
+      {
+        "model": "Claude Haiku 4.5",
+        "score": 0
+      },
+      {
+        "model": "xAI Grok 4.20",
+        "score": 0
+      },
+      {
+        "model": "Mistral Small 3.2 24B Instruct",
+        "score": 0
+      },
+      {
+        "model": "Meta Llama 3.3 70B Instruct",
+        "score": 80
+      },
+      {
+        "model": "Qwen3 8B",
+        "score": 0
+      },
+      {
+        "model": "Meta Llama 3.2 1B Instruct",
+        "score": 0
+      }
+    ]
+  },
+  "gradient": [
+    {
+      "name": "Acker Bilk",
+      "pv": 6872,
+      "score": 80
+    },
+    {
+      "name": "Adriana Kučerová",
+      "pv": 191,
+      "score": 3
+    },
+    {
+      "name": "Akiko Itoyama",
+      "pv": 164,
+      "score": 24
+    },
+    {
+      "name": "Alain Souchon",
+      "pv": 1806,
+      "score": 95
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "pv": 2859,
+      "score": 75
+    },
+    {
+      "name": "Alexander Golling",
+      "pv": 164,
+      "score": 30
+    },
+    {
+      "name": "Alfred Delp",
+      "pv": 1838,
+      "score": 84
+    },
+    {
+      "name": "Anderson Cooper",
+      "pv": 119113,
+      "score": 97
+    },
+    {
+      "name": "Andreas Gruschke",
+      "pv": 124,
+      "score": 57
+    },
+    {
+      "name": "Anita Höfer",
+      "pv": 133,
+      "score": 29
+    },
+    {
+      "name": "Annemarie Schwarzenbach",
+      "pv": 2551,
+      "score": 79
+    },
+    {
+      "name": "Annie Girardot",
+      "pv": 5088,
+      "score": 92
+    },
+    {
+      "name": "Antonio Carlo Napoleone Gallenga",
+      "pv": 108,
+      "score": 77
+    },
+    {
+      "name": "Antonio Segni",
+      "pv": 2555,
+      "score": 93
+    },
+    {
+      "name": "Aḥmad Ibn-Muḥammad al- Maidānī",
+      "pv": 171,
+      "score": 8
+    },
+    {
+      "name": "Baron Max Wladimir von Beck",
+      "pv": 178,
+      "score": 61
+    },
+    {
+      "name": "Beate Finckh",
+      "pv": 146,
+      "score": 29
+    },
+    {
+      "name": "Beate Hasenau",
+      "pv": 181,
+      "score": 40
+    },
+    {
+      "name": "Beyoncé",
+      "pv": 267767,
+      "score": 99
+    },
+    {
+      "name": "Blaise Meliani",
+      "pv": 2428,
+      "score": 13
+    },
+    {
+      "name": "Bob Woodward",
+      "pv": 31534,
+      "score": 97
+    },
+    {
+      "name": "Boris Grebenshchikov",
+      "pv": 2890,
+      "score": 81
+    },
+    {
+      "name": "Bruno Jonas",
+      "pv": 157,
+      "score": 7
+    },
+    {
+      "name": "Bruno Pontecorvo",
+      "pv": 2105,
+      "score": 88
+    },
+    {
+      "name": "Béla Rajki",
+      "pv": 123,
+      "score": 24
+    },
+    {
+      "name": "Carl Almenräder",
+      "pv": 154,
+      "score": 63
+    },
+    {
+      "name": "Carl Friedrich Geiser",
+      "pv": 166,
+      "score": 66
+    },
+    {
+      "name": "Carlos Rasch",
+      "pv": 140,
+      "score": 20
+    },
+    {
+      "name": "Cees Nooteboom",
+      "pv": 2325,
+      "score": 78
+    },
+    {
+      "name": "Charles-Victor Prévot, vicomte d'Arlincourt",
+      "pv": 168,
+      "score": 86
+    },
+    {
+      "name": "Christel Peters",
+      "pv": 135,
+      "score": 33
+    },
+    {
+      "name": "Christiane Amanpour",
+      "pv": 60324,
+      "score": 97
+    },
+    {
+      "name": "Christoph Schlingensief",
+      "pv": 1373,
+      "score": 87
+    },
+    {
+      "name": "Clara Rockmore",
+      "pv": 2739,
+      "score": 90
+    },
+    {
+      "name": "Cylon of Athens",
+      "pv": 1716,
+      "score": 80
+    },
+    {
+      "name": "Denzel Washington",
+      "pv": 260181,
+      "score": 99
+    },
+    {
+      "name": "Dmitry of Uglich",
+      "pv": 2371,
+      "score": 83
+    },
+    {
+      "name": "Egon Erwin Kisch",
+      "pv": 1740,
+      "score": 88
+    },
+    {
+      "name": "Elise Aulinger",
+      "pv": 178,
+      "score": 21
+    },
+    {
+      "name": "Eric Szmanda",
+      "pv": 6146,
+      "score": 73
+    },
+    {
+      "name": "Erik Zabel",
+      "pv": 2013,
+      "score": 87
+    },
+    {
+      "name": "Ernest Bai Koroma",
+      "pv": 2647,
+      "score": 87
+    },
+    {
+      "name": "Ernest Julius Wilczynski",
+      "pv": 147,
+      "score": 71
+    },
+    {
+      "name": "Erwin Blask",
+      "pv": 154,
+      "score": 46
+    },
+    {
+      "name": "Fatima Gallaire",
+      "pv": 104,
+      "score": 40
+    },
+    {
+      "name": "Fawzi Salloukh",
+      "pv": 181,
+      "score": 48
+    },
+    {
+      "name": "Felix von Hartmann",
+      "pv": 188,
+      "score": 18
+    },
+    {
+      "name": "Fiona Pitt-Kethley",
+      "pv": 235,
+      "score": 70
+    },
+    {
+      "name": "Frances Marion",
+      "pv": 2434,
+      "score": 80
+    },
+    {
+      "name": "Frank Baumgartl",
+      "pv": 123,
+      "score": 28
+    },
+    {
+      "name": "Frank Wedekind",
+      "pv": 2920,
+      "score": 88
+    },
+    {
+      "name": "Franz von Jauner",
+      "pv": 159,
+      "score": 50
+    },
+    {
+      "name": "Georg Schenck van Toutenburg",
+      "pv": 187,
+      "score": 57
+    },
+    {
+      "name": "Georg Weerth",
+      "pv": 213,
+      "score": 80
+    },
+    {
+      "name": "Gerard Leckie",
+      "pv": 154,
+      "score": 8
+    },
+    {
+      "name": "Gerd Roggensack",
+      "pv": 136,
+      "score": 16
+    },
+    {
+      "name": "Giorgio Parisi",
+      "pv": 3272,
+      "score": 89
+    },
+    {
+      "name": "Giovanna Mezzogiorno",
+      "pv": 2259,
+      "score": 93
+    },
+    {
+      "name": "Gregory Benford",
+      "pv": 2305,
+      "score": 94
+    },
+    {
+      "name": "Gustav Meyrink",
+      "pv": 2136,
+      "score": 88
+    },
+    {
+      "name": "Haluk Piyes",
+      "pv": 203,
+      "score": 57
+    },
+    {
+      "name": "Hannelore Rönsch",
+      "pv": 185,
+      "score": 66
+    },
+    {
+      "name": "Hans-Jürgen Buchner",
+      "pv": 151,
+      "score": 51
+    },
+    {
+      "name": "Harald Vogel",
+      "pv": 178,
+      "score": 56
+    },
+    {
+      "name": "Heidi Brühl",
+      "pv": 3206,
+      "score": 69
+    },
+    {
+      "name": "Heinz Melkus",
+      "pv": 225,
+      "score": 76
+    },
+    {
+      "name": "Helena Araújo",
+      "pv": 146,
+      "score": 30
+    },
+    {
+      "name": "Helge Payer",
+      "pv": 203,
+      "score": 49
+    },
+    {
+      "name": "Henry Vahl",
+      "pv": 176,
+      "score": 8
+    },
+    {
+      "name": "Herman Murray",
+      "pv": 121,
+      "score": 17
+    },
+    {
+      "name": "Hienadz Karpienka",
+      "pv": 154,
+      "score": 52
+    },
+    {
+      "name": "Hillary Clinton",
+      "pv": 198786,
+      "score": 98
+    },
+    {
+      "name": "Hilton Jefferson",
+      "pv": 194,
+      "score": 58
+    },
+    {
+      "name": "Hovhannes Imastaser",
+      "pv": 187,
+      "score": 68
+    },
+    {
+      "name": "Huang Nubo",
+      "pv": 212,
+      "score": 72
+    },
+    {
+      "name": "Hugo Maradona",
+      "pv": 2023,
+      "score": 69
+    },
+    {
+      "name": "Ibrāhīm al-khawāṣṣ",
+      "pv": 179,
+      "score": 6
+    },
+    {
+      "name": "Irshad Manji",
+      "pv": 2822,
+      "score": 85
+    },
+    {
+      "name": "Ivo Sanader",
+      "pv": 2347,
+      "score": 86
+    },
+    {
+      "name": "Jakov Lind",
+      "pv": 199,
+      "score": 76
+    },
+    {
+      "name": "James Scullin",
+      "pv": 2501,
+      "score": 95
+    },
+    {
+      "name": "Jan Baptist van Helmont",
+      "pv": 3129,
+      "score": 95
+    },
+    {
+      "name": "Jan Costin Wagner",
+      "pv": 162,
+      "score": 63
+    },
+    {
+      "name": "Jane Ellen Harrison",
+      "pv": 1767,
+      "score": 80
+    },
+    {
+      "name": "Jane Goodall",
+      "pv": 335428,
+      "score": 98
+    },
+    {
+      "name": "Jean-Pierre Raffarin",
+      "pv": 2001,
+      "score": 95
+    },
+    {
+      "name": "Joachim Starbatty",
+      "pv": 182,
+      "score": 77
+    },
+    {
+      "name": "Joan Perucho",
+      "pv": 168,
+      "score": 70
+    },
+    {
+      "name": "Johan Ludvig Runeberg",
+      "pv": 2242,
+      "score": 96
+    },
+    {
+      "name": "Johann Andreas Schubert",
+      "pv": 178,
+      "score": 63
+    },
+    {
+      "name": "Jorge Ibargüengoitia",
+      "pv": 2357,
+      "score": 65
+    },
+    {
+      "name": "Joseph Liouville",
+      "pv": 2325,
+      "score": 96
+    },
+    {
+      "name": "Katy Garbi",
+      "pv": 1470,
+      "score": 66
+    },
+    {
+      "name": "Kim Tal-su",
+      "pv": 105,
+      "score": 22
+    },
+    {
+      "name": "Klaus Balkenhol",
+      "pv": 195,
+      "score": 62
+    },
+    {
+      "name": "Kotono Mitsuishi",
+      "pv": 5757,
+      "score": 94
+    },
+    {
+      "name": "Kubanychbek Jumaliyev",
+      "pv": 177,
+      "score": 50
+    },
+    {
+      "name": "Kurt Julius Goldstein",
+      "pv": 221,
+      "score": 39
+    },
+    {
+      "name": "Kurt Landau",
+      "pv": 183,
+      "score": 47
+    },
+    {
+      "name": "Kwesi Ahoomey-Zunu",
+      "pv": 181,
+      "score": 39
+    },
+    {
+      "name": "Laila Lalami",
+      "pv": 2466,
+      "score": 81
+    },
+    {
+      "name": "Lasha Bekauri",
+      "pv": 2196,
+      "score": 49
+    },
+    {
+      "name": "Leonardo Favio",
+      "pv": 3415,
+      "score": 85
+    },
+    {
+      "name": "Leopold Sonnemann",
+      "pv": 215,
+      "score": 74
+    },
+    {
+      "name": "Lionel Messi",
+      "pv": 677288,
+      "score": 100
+    },
+    {
+      "name": "Lisa Batiashvili",
+      "pv": 2866,
+      "score": 80
+    },
+    {
+      "name": "Lluís Quintana-Murci",
+      "pv": 175,
+      "score": 81
+    },
+    {
+      "name": "Louis Nirenberg",
+      "pv": 2228,
+      "score": 82
+    },
+    {
+      "name": "Lucien Laurent",
+      "pv": 1755,
+      "score": 5
+    },
+    {
+      "name": "Léo Errera",
+      "pv": 166,
+      "score": 53
+    },
+    {
+      "name": "Léon Daudet",
+      "pv": 2539,
+      "score": 80
+    },
+    {
+      "name": "Majid Majidi",
+      "pv": 6350,
+      "score": 87
+    },
+    {
+      "name": "Manfred von Ardenne",
+      "pv": 2318,
+      "score": 88
+    },
+    {
+      "name": "Margaret Atwood",
+      "pv": 80266,
+      "score": 97
+    },
+    {
+      "name": "Maria Osten",
+      "pv": 184,
+      "score": 57
+    },
+    {
+      "name": "Marika Rökk",
+      "pv": 1168,
+      "score": 79
+    },
+    {
+      "name": "Marina Anissina",
+      "pv": 3166,
+      "score": 78
+    },
+    {
+      "name": "María Elena Walsh",
+      "pv": 2550,
+      "score": 87
+    },
+    {
+      "name": "Massimo Troisi",
+      "pv": 5022,
+      "score": 81
+    },
+    {
+      "name": "Maurice Barrès",
+      "pv": 2259,
+      "score": 95
+    },
+    {
+      "name": "Maurice Béjart",
+      "pv": 1958,
+      "score": 96
+    },
+    {
+      "name": "Mercedes Echerer",
+      "pv": 163,
+      "score": 3
+    },
+    {
+      "name": "Meryl Streep",
+      "pv": 368500,
+      "score": 99
+    },
+    {
+      "name": "Mete Sözen",
+      "pv": 168,
+      "score": 46
+    },
+    {
+      "name": "Michael Spicer, Baron Spicer",
+      "pv": 192,
+      "score": 75
+    },
+    {
+      "name": "Michel Faber",
+      "pv": 2752,
+      "score": 86
+    },
+    {
+      "name": "Michel Suleiman",
+      "pv": 2734,
+      "score": 84
+    },
+    {
+      "name": "Michèle Marian",
+      "pv": 124,
+      "score": 11
+    },
+    {
+      "name": "Minako Ōba",
+      "pv": 111,
+      "score": 46
+    },
+    {
+      "name": "Miqdad ibn Aswad",
+      "pv": 2028,
+      "score": 85
+    },
+    {
+      "name": "Musa Evloev",
+      "pv": 2780,
+      "score": 38
+    },
+    {
+      "name": "Neil deGrasse Tyson",
+      "pv": 109063,
+      "score": 98
+    },
+    {
+      "name": "Nino Schurter",
+      "pv": 2217,
+      "score": 89
+    },
+    {
+      "name": "Otto Richard Kierulf",
+      "pv": 158,
+      "score": 22
+    },
+    {
+      "name": "Patrick Tambay",
+      "pv": 2869,
+      "score": 80
+    },
+    {
+      "name": "Paul McCartney",
+      "pv": 372639,
+      "score": 100
+    },
+    {
+      "name": "Peter Berglar",
+      "pv": 127,
+      "score": 51
+    },
+    {
+      "name": "Petra Gerster",
+      "pv": 226,
+      "score": 75
+    },
+    {
+      "name": "Pierre Louÿs",
+      "pv": 2771,
+      "score": 87
+    },
+    {
+      "name": "Pietro Mennea",
+      "pv": 2780,
+      "score": 96
+    },
+    {
+      "name": "Princess Wilhelmine of Baden",
+      "pv": 2496,
+      "score": 57
+    },
+    {
+      "name": "Rafael Lucio",
+      "pv": 182,
+      "score": 30
+    },
+    {
+      "name": "Reinhard Genzel",
+      "pv": 2322,
+      "score": 90
+    },
+    {
+      "name": "Roberto Alagna",
+      "pv": 3122,
+      "score": 87
+    },
+    {
+      "name": "Rohan Dennis",
+      "pv": 2774,
+      "score": 78
+    },
+    {
+      "name": "Rosalía de Castro",
+      "pv": 1988,
+      "score": 89
+    },
+    {
+      "name": "Rudolf Schottlaender",
+      "pv": 148,
+      "score": 50
+    },
+    {
+      "name": "Ruedi Walter",
+      "pv": 191,
+      "score": 61
+    },
+    {
+      "name": "Ruslan Kazakbayev",
+      "pv": 158,
+      "score": 37
+    },
+    {
+      "name": "Sandrine Kiberlain",
+      "pv": 2708,
+      "score": 5
+    },
+    {
+      "name": "Saskia Sassen",
+      "pv": 2564,
+      "score": 96
+    },
+    {
+      "name": "Scott O'Dell",
+      "pv": 2529,
+      "score": 94
+    },
+    {
+      "name": "Sepp Schönmetzler",
+      "pv": 148,
+      "score": 15
+    },
+    {
+      "name": "Serena Williams",
+      "pv": 215835,
+      "score": 91
+    },
+    {
+      "name": "Shirley Horn",
+      "pv": 2894,
+      "score": 88
+    },
+    {
+      "name": "Sima Guang",
+      "pv": 2028,
+      "score": 81
+    },
+    {
+      "name": "Stefan Doernberg",
+      "pv": 132,
+      "score": 23
+    },
+    {
+      "name": "Stefan Raab",
+      "pv": 2583,
+      "score": 88
+    },
+    {
+      "name": "Stephen Hawking",
+      "pv": 315780,
+      "score": 99
+    },
+    {
+      "name": "Stephen King",
+      "pv": 261041,
+      "score": 99
+    },
+    {
+      "name": "Sufi Abu Taleb",
+      "pv": 2225,
+      "score": 44
+    },
+    {
+      "name": "Svetozar Gligorić",
+      "pv": 1995,
+      "score": 86
+    },
+    {
+      "name": "Sándor Márai",
+      "pv": 2946,
+      "score": 89
+    },
+    {
+      "name": "Taeko Kono",
+      "pv": 239,
+      "score": 47
+    },
+    {
+      "name": "Taylor Swift",
+      "pv": 909792,
+      "score": 100
+    },
+    {
+      "name": "Tekin Kurtuluş",
+      "pv": 159,
+      "score": 39
+    },
+    {
+      "name": "Thomas E. Starzl",
+      "pv": 2124,
+      "score": 97
+    },
+    {
+      "name": "Tom Hanks",
+      "pv": 300084,
+      "score": 99
+    },
+    {
+      "name": "Ursula Herking",
+      "pv": 189,
+      "score": 65
+    },
+    {
+      "name": "Usain Bolt",
+      "pv": 135614,
+      "score": 99
+    },
+    {
+      "name": "Vilém Flusser",
+      "pv": 2039,
+      "score": 94
+    },
+    {
+      "name": "Vitaly Scherbo",
+      "pv": 1720,
+      "score": 73
+    },
+    {
+      "name": "Walker Hamilton",
+      "pv": 131,
+      "score": 17
+    },
+    {
+      "name": "Walter Mahlendorf",
+      "pv": 165,
+      "score": 21
+    },
+    {
+      "name": "Warner Oland",
+      "pv": 6279,
+      "score": 88
+    },
+    {
+      "name": "Wiktor Biegański",
+      "pv": 143,
+      "score": 39
+    },
+    {
+      "name": "Wilhelm Friedemann Bach",
+      "pv": 2653,
+      "score": 90
+    },
+    {
+      "name": "Wojtek Czyz",
+      "pv": 220,
+      "score": 27
+    },
+    {
+      "name": "Wolfgang Gehrcke",
+      "pv": 168,
+      "score": 61
+    },
+    {
+      "name": "Władysław Raczkiewicz",
+      "pv": 2397,
+      "score": 79
+    },
+    {
+      "name": "Zarah Leander",
+      "pv": 2966,
+      "score": 96
+    },
+    {
+      "name": "Zhan Beleniuk",
+      "pv": 1774,
+      "score": 69
+    },
+    {
+      "name": "Zoë Ferraris",
+      "pv": 227,
+      "score": 76
+    },
+    {
+      "name": "Ēriks Rags",
+      "pv": 185,
+      "score": 34
+    },
+    {
+      "name": "Éric Demarsan",
+      "pv": 200,
+      "score": 55
+    }
+  ],
+  "occupations": [
+    {
+      "category": "novelist",
+      "mean": 70,
+      "n": 25
+    },
+    {
+      "category": "journalist",
+      "mean": 70,
+      "n": 27
+    },
+    {
+      "category": "scientist",
+      "mean": 70,
+      "n": 27
+    },
+    {
+      "category": "politician",
+      "mean": 68,
+      "n": 25
+    },
+    {
+      "category": "musician",
+      "mean": 66,
+      "n": 27
+    },
+    {
+      "category": "actor",
+      "mean": 64,
+      "n": 27
+    },
+    {
+      "category": "athlete",
+      "mean": 56,
+      "n": 27
+    }
+  ],
+  "model_lineup": [
+    {
+      "label": "Google Gemini 3.1 Flash Lite",
+      "mean": 90,
+      "param_class": "frontier"
+    },
+    {
+      "label": "GPT-5.5",
+      "mean": 85,
+      "param_class": "frontier"
+    },
+    {
+      "label": "Kimi K2 0905",
+      "mean": 79,
+      "param_class": "large"
+    },
+    {
+      "label": "DeepSeek V4 Flash",
+      "mean": 78,
+      "param_class": "large"
+    },
+    {
+      "label": "GPT-5.4 Mini",
+      "mean": 78,
+      "param_class": "mid"
+    },
+    {
+      "label": "Claude Opus 4.8",
+      "mean": 72,
+      "param_class": "frontier"
+    },
+    {
+      "label": "Z.ai GLM 4.7 Flash",
+      "mean": 63,
+      "param_class": "mid"
+    },
+    {
+      "label": "xAI Grok 4.20",
+      "mean": 62,
+      "param_class": "frontier"
+    },
+    {
+      "label": "Claude Haiku 4.5",
+      "mean": 57,
+      "param_class": "mid"
+    },
+    {
+      "label": "Mistral Small 3.2 24B Instruct",
+      "mean": 56,
+      "param_class": "mid"
+    },
+    {
+      "label": "Meta Llama 3.3 70B Instruct",
+      "mean": 41,
+      "param_class": "large"
+    },
+    {
+      "label": "Qwen3 8B",
+      "mean": 36,
+      "param_class": "small"
+    },
+    {
+      "label": "Meta Llama 3.2 1B Instruct",
+      "mean": 18,
+      "param_class": "small"
+    }
+  ],
+  "model_agreement": {
+    "mean": 0.65,
+    "models": [
+      {
+        "label": "Claude Opus 4.8",
+        "rho": 0.75,
+        "param_class": "frontier"
+      },
+      {
+        "label": "xAI Grok 4.20",
+        "rho": 0.75,
+        "param_class": "frontier"
+      },
+      {
+        "label": "Claude Haiku 4.5",
+        "rho": 0.73,
+        "param_class": "mid"
+      },
+      {
+        "label": "GPT-5.5",
+        "rho": 0.73,
+        "param_class": "frontier"
+      },
+      {
+        "label": "Kimi K2 0905",
+        "rho": 0.73,
+        "param_class": "large"
+      },
+      {
+        "label": "GPT-5.4 Mini",
+        "rho": 0.72,
+        "param_class": "mid"
+      },
+      {
+        "label": "DeepSeek V4 Flash",
+        "rho": 0.69,
+        "param_class": "large"
+      },
+      {
+        "label": "Mistral Small 3.2 24B Instruct",
+        "rho": 0.68,
+        "param_class": "mid"
+      },
+      {
+        "label": "Qwen3 8B",
+        "rho": 0.63,
+        "param_class": "small"
+      },
+      {
+        "label": "Z.ai GLM 4.7 Flash",
+        "rho": 0.58,
+        "param_class": "mid"
+      },
+      {
+        "label": "Meta Llama 3.3 70B Instruct",
+        "rho": 0.54,
+        "param_class": "large"
+      },
+      {
+        "label": "Google Gemini 3.1 Flash Lite",
+        "rho": 0.52,
+        "param_class": "frontier"
+      },
+      {
+        "label": "Meta Llama 3.2 1B Instruct",
+        "rho": 0.36,
+        "param_class": "small"
+      }
+    ],
+    "least": {
+      "a": "Google Gemini 3.1 Flash Lite",
+      "b": "Meta Llama 3.2 1B Instruct",
+      "rho": 0.17
+    },
+    "most": {
+      "a": "Claude Opus 4.8",
+      "b": "xAI Grok 4.20",
+      "rho": 0.88
+    }
+  },
+  "models": {
+    "GPT-5.5": {
+      "param_class": "frontier",
+      "cutoff": "2025-12",
+      "maker": "OpenAI"
+    },
+    "Claude Opus 4.8": {
+      "param_class": "frontier",
+      "cutoff": "2025-08",
+      "maker": "Anthropic"
+    },
+    "xAI Grok 4.20": {
+      "param_class": "frontier",
+      "cutoff": "2024-11",
+      "maker": "xAI"
+    },
+    "Google Gemini 3.1 Flash Lite": {
+      "param_class": "frontier",
+      "cutoff": "2026-02",
+      "maker": "Google"
+    },
+    "Claude Haiku 4.5": {
+      "param_class": "mid",
+      "cutoff": "2025-02",
+      "maker": "Anthropic"
+    },
+    "GPT-5.4 Mini": {
+      "param_class": "mid",
+      "cutoff": null,
+      "maker": "OpenAI"
+    },
+    "Kimi K2 0905": {
+      "param_class": "large",
+      "cutoff": "2025-04",
+      "maker": "Moonshot AI"
+    },
+    "DeepSeek V4 Flash": {
+      "param_class": "large",
+      "cutoff": "2025-07",
+      "maker": "DeepSeek"
+    },
+    "Meta Llama 3.3 70B Instruct": {
+      "param_class": "large",
+      "cutoff": "2023-12",
+      "maker": "Meta"
+    },
+    "Z.ai GLM 4.7 Flash": {
+      "param_class": "mid",
+      "cutoff": null,
+      "maker": "Z.ai"
+    },
+    "Mistral Small 3.2 24B Instruct": {
+      "param_class": "mid",
+      "cutoff": "2025-06",
+      "maker": "Mistral AI"
+    },
+    "Qwen3 8B": {
+      "param_class": "small",
+      "cutoff": "2025-04",
+      "maker": "Alibaba (Qwen)"
+    },
+    "Meta Llama 3.2 1B Instruct": {
+      "param_class": "small",
+      "cutoff": "2023-12",
+      "maker": "Meta"
+    }
+  },
+  "name_experiment": {
+    "unique": {
+      "mean": 63,
+      "n": 20
+    },
+    "shared": {
+      "mean": 45,
+      "n": 18,
+      "threshold": 4
+    },
+    "diff": -18,
+    "adjusted_diff": -17,
+    "t": -2.2,
+    "caption": "20 unique-name vs 18 shared-name German footballers, matched so the two groups are equally famous. The shared group (exact name shared with 4+ other notable people) scored 18 points lower — still 17 points lower even after accounting for how much Wikipedia writes about each person. Same country, same sport, similar fame — only the name differs."
+  }
+}
