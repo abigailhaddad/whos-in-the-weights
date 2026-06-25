@@ -1,0 +1,100 @@
+[
+  {
+    "name": "John Major",
+    "category": "politician",
+    "wikipedia_title": "John_Major",
+    "wikidata_id": "Q9559",
+    "name_collisions": 14,
+    "pageviews_monthly_avg": 74207,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "john-major",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Gordon Brown",
+    "category": "politician",
+    "wikipedia_title": "Gordon_Brown",
+    "wikidata_id": "Q10648",
+    "name_collisions": 23,
+    "pageviews_monthly_avg": 77361,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "gordon-brown",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Harold Wilson",
+    "category": "politician",
+    "wikipedia_title": "Harold_Wilson",
+    "wikidata_id": "Q128956",
+    "name_collisions": 4,
+    "pageviews_monthly_avg": 82937,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "harold-wilson",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "David Cameron",
+    "category": "politician",
+    "wikipedia_title": "David_Cameron",
+    "wikidata_id": "Q192",
+    "name_collisions": 21,
+    "pageviews_monthly_avg": 86401,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "david-cameron",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Alastair Campbell",
+    "category": "politician",
+    "wikipedia_title": "Alastair_Campbell",
+    "wikidata_id": "Q653236",
+    "name_collisions": 6,
+    "pageviews_monthly_avg": 38299,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "alastair-campbell",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Altaf Hussain",
+    "category": "politician",
+    "wikipedia_title": "Altaf_Hussain_(Pakistani_politician)",
+    "wikidata_id": "Q2840298",
+    "name_collisions": 9,
+    "pageviews_monthly_avg": 32171,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "altaf-hussain",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Robert Maxwell",
+    "category": "politician",
+    "wikipedia_title": "Robert_Maxwell",
+    "wikidata_id": "Q333468",
+    "name_collisions": 35,
+    "pageviews_monthly_avg": 271942,
+    "fame_tier": "gbpol_shared_hi",
+    "fame_label": "Shared-name UK politician (hi fame)",
+    "slug": "robert-maxwell",
+    "occupations": [
+      "politician"
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Nick Brown",
+    "category": "politician",
+    "wikipedia_title": "Nick_Brown",
+    "wikidata_id": "Q265935",
+    "name_collisions": 19,
+    "pageviews_monthly_avg": 4665,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "nick-brown",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Keith Joseph",
+    "category": "politician",
+    "wikipedia_title": "Keith_Joseph",
+    "wikidata_id": "Q333694",
+    "name_collisions": 5,
+    "pageviews_monthly_avg": 4730,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "keith-joseph",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Steve Baker",
+    "category": "politician",
+    "wikipedia_title": "Steve_Baker_(politician)",
+    "wikidata_id": "Q260111",
+    "name_collisions": 14,
+    "pageviews_monthly_avg": 4636,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "steve-baker",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "John Woodcock",
+    "category": "politician",
+    "wikipedia_title": "John_Woodcock,_Baron_Walney",
+    "wikidata_id": "Q261214",
+    "name_collisions": 19,
+    "pageviews_monthly_avg": 4748,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "john-woodcock",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Mervyn King",
+    "category": "politician",
+    "wikipedia_title": "Mervyn_King,_Baron_King_of_Lothbury",
+    "wikidata_id": "Q1375680",
+    "name_collisions": 9,
+    "pageviews_monthly_avg": 4454,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "mervyn-king",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Martin Bell",
+    "category": "politician",
+    "wikipedia_title": "Martin_Bell",
+    "wikidata_id": "Q333499",
+    "name_collisions": 10,
+    "pageviews_monthly_avg": 4425,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "martin-bell",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Kurt Hahn",
+    "category": "politician",
+    "wikipedia_title": "Kurt_Hahn",
+    "wikidata_id": "Q61146",
+    "name_collisions": 12,
+    "pageviews_monthly_avg": 5074,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "kurt-hahn",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Tom Watson",
+    "category": "politician",
+    "wikipedia_title": "Tom_Watson,_Baron_Watson_of_Wyre_Forest",
+    "wikidata_id": "Q263802",
+    "name_collisions": 16,
+    "pageviews_monthly_avg": 5234,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "tom-watson",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Michael Martin",
+    "category": "politician",
+    "wikipedia_title": "Michael_Martin,_Baron_Martin_of_Springburn",
+    "wikidata_id": "Q332576",
+    "name_collisions": 32,
+    "pageviews_monthly_avg": 4121,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "michael-martin",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "David Trimble",
+    "category": "politician",
+    "wikipedia_title": "David_Trimble",
+    "wikidata_id": "Q192556",
+    "name_collisions": 4,
+    "pageviews_monthly_avg": 5295,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "david-trimble",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Norman Lamont",
+    "category": "politician",
+    "wikipedia_title": "Norman_Lamont",
+    "wikidata_id": "Q332546",
+    "name_collisions": 6,
+    "pageviews_monthly_avg": 5321,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "norman-lamont",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Philip Hammond",
+    "category": "politician",
+    "wikipedia_title": "Philip_Hammond",
+    "wikidata_id": "Q332987",
+    "name_collisions": 4,
+    "pageviews_monthly_avg": 5637,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "philip-hammond",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Jim O'Neill",
+    "category": "politician",
+    "wikipedia_title": "Jim_O'Neill,_Baron_O'Neill_of_Gatley",
+    "wikidata_id": "Q1689184",
+    "name_collisions": 4,
+    "pageviews_monthly_avg": 5663,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "jim-o-neill",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Ian Murray",
+    "category": "politician",
+    "wikipedia_title": "Ian_Murray_(Scottish_politician)",
+    "wikidata_id": "Q578432",
+    "name_collisions": 14,
+    "pageviews_monthly_avg": 5668,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "ian-murray",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "William Temple",
+    "category": "politician",
+    "wikipedia_title": "William_Temple_(bishop)",
+    "wikidata_id": "Q336315",
+    "name_collisions": 15,
+    "pageviews_monthly_avg": 3693,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "william-temple",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Geoffrey Cox",
+    "category": "politician",
+    "wikipedia_title": "Geoffrey_Cox_(British_politician)",
+    "wikidata_id": "Q291303",
+    "name_collisions": 4,
+    "pageviews_monthly_avg": 3620,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "geoffrey-cox",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Greg Clark",
+    "category": "politician",
+    "wikipedia_title": "Greg_Clark",
+    "wikidata_id": "Q271800",
+    "name_collisions": 14,
+    "pageviews_monthly_avg": 3616,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "greg-clark",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Alok Sharma",
+    "category": "politician",
+    "wikipedia_title": "Alok_Sharma",
+    "wikidata_id": "Q478531",
+    "name_collisions": 8,
+    "pageviews_monthly_avg": 3548,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "alok-sharma",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Arthur Henderson",
+    "category": "politician",
+    "wikipedia_title": "Arthur_Henderson",
+    "wikidata_id": "Q208665",
+    "name_collisions": 5,
+    "pageviews_monthly_avg": 3346,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "arthur-henderson",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Robert Stephenson",
+    "category": "politician",
+    "wikipedia_title": "Robert_Stephenson",
+    "wikidata_id": "Q328728",
+    "name_collisions": 9,
+    "pageviews_monthly_avg": 6098,
+    "fame_tier": "gbpol_shared_mid",
+    "fame_label": "Shared-name UK politician (mid fame)",
+    "slug": "robert-stephenson",
+    "occupations": [
+      "politician"
+    ]
+  }
+]

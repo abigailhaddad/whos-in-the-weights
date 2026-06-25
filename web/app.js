@@ -212,13 +212,34 @@ function renderNameExperiment(data) {
   const note = document.getElementById("name-exp-note");
   const ne = data.name_experiment;
   if (!ne) { el.closest("section").style.display = "none"; return; }
-  const max = Math.max(ne.unique.mean, ne.shared.mean);
-  const row = (label, v, color) =>
-    `<div class="pb-row"><div class="pb-label">${label}</div>` +
-    `<div class="pb-track"><div class="pb-fill" style="width:${(v / max * 100).toFixed(0)}%;background:${color}"></div></div>` +
-    `<div class="pb-val">${v}</div></div>`;
-  el.innerHTML = row("Unique name", ne.unique.mean, INK) +
-                 row(`Shared name (${ne.shared.threshold}+)`, ne.shared.mean, ACCENT);
+
+  const bandOrder = ["lo", "mid", "hi"];
+  const rows = bandOrder.map(key => {
+    const b = ne.bands[key];
+    const max = 100;
+    const gapAbs = Math.abs(b.gap);
+    const gapColor = gapAbs >= 10 ? "#dc2626" : gapAbs >= 5 ? "#d97706" : "#16a34a";
+    const gapBg   = gapAbs >= 10 ? "#fef2f2"  : gapAbs >= 5 ? "#fff7ed"  : "#f0fdf4";
+    const bar = (v, color) =>
+      `<div class="pb-track" style="flex:1"><div class="pb-fill" style="width:${(v/max*100).toFixed(0)}%;background:${color}"></div></div>` +
+      `<div class="pb-val" style="color:${color}">${Math.round(v)}</div>`;
+    return `<div class="ne-row">` +
+      `<div class="ne-band"><strong>${b.label}</strong><span class="ne-pv">${b.pv_label}</span></div>` +
+      `<div class="ne-cell">${bar(b.unique.mean, INK)}</div>` +
+      `<div class="ne-cell">${bar(b.shared.mean, "#94a3b8")}</div>` +
+      `<div class="ne-gap" style="background:${gapBg};color:${gapColor}">${b.gap >= 0 ? "−" : "+"}${gapAbs.toFixed(0)} pts</div>` +
+      `</div>`;
+  }).join("");
+
+  const header =
+    `<div class="ne-row ne-header">` +
+    `<div class="ne-band"></div>` +
+    `<div class="ne-cell ne-col-label">Unique name</div>` +
+    `<div class="ne-cell ne-col-label">Shared name (4+)</div>` +
+    `<div class="ne-gap ne-col-label">Gap</div>` +
+    `</div>`;
+
+  el.innerHTML = header + rows;
   if (note) note.textContent = ne.caption;
 }
 

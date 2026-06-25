@@ -1,6 +1,6 @@
 {
   "meta": {
-    "n_people": 291,
+    "n_people": 390,
     "n_models": 13,
     "n_scatter": 185
   },
@@ -1243,18 +1243,50 @@
     }
   },
   "name_experiment": {
-    "unique": {
-      "mean": 63,
-      "n": 20
+    "bands": {
+      "lo": {
+        "label": "Low fame",
+        "pv_label": "~575 pv/mo · obscure MPs",
+        "unique": {
+          "mean": 68.2,
+          "n": 20
+        },
+        "shared": {
+          "mean": 56.3,
+          "n": 20,
+          "threshold": 4
+        },
+        "gap": 12.0
+      },
+      "mid": {
+        "label": "Mid fame",
+        "pv_label": "~4,600 pv/mo · known ministers",
+        "unique": {
+          "mean": 85.2,
+          "n": 20
+        },
+        "shared": {
+          "mean": 75.9,
+          "n": 20,
+          "threshold": 4
+        },
+        "gap": 9.3
+      },
+      "hi": {
+        "label": "High fame",
+        "pv_label": "~63K pv/mo · PMs and leaders",
+        "unique": {
+          "mean": 90.9,
+          "n": 12
+        },
+        "shared": {
+          "mean": 90.5,
+          "n": 7,
+          "threshold": 4
+        },
+        "gap": 0.4
+      }
     },
-    "shared": {
-      "mean": 45,
-      "n": 18,
-      "threshold": 4
-    },
-    "diff": -18,
-    "adjusted_diff": -17,
-    "t": -2.2,
-    "caption": "20 unique-name vs 18 shared-name German footballers, matched so the two groups are equally famous. The shared group (exact name shared with 4+ other notable people) scored 18 points lower — still 17 points lower even after accounting for how much Wikipedia writes about each person. Same country, same sport, similar fame — only the name differs."
+    "caption": "UK politicians matched on Wikipedia pageviews — unique full name vs. name shared by 4+ other people anywhere on Wikipedia. 13 models, n=20 per group (lo/mid), n=7–12 (hi). The gap shrinks from −12 pts at low fame to near-zero at high fame."
   }
 }

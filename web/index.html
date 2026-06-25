@@ -27,7 +27,7 @@
       <a href="https://intheweights.com">intheweights.com</a> asks 13 models how sure each is,
       scoring its <strong>confidence</strong> from 0 to 100. (Combine a person's 13 confidences and
       the site gives them one <strong>strength</strong> score; we work with the 13 underlying
-      numbers.) We ran <strong class="hint" data-tip="<strong>How we picked them.</strong> Every one is a real person with an English Wikipedia article, drawn from Wikidata across seven occupations — politicians, actors, musicians, athletes, scientists, journalists and novelists. We sorted them by fame using monthly Wikipedia pageviews, from well-known (hundreds to thousands of views a month) down to obscure (dozens). A few extra groups were picked for specific tests, like German footballers with common vs one-of-a-kind names. It's a deliberately wide spread from famous to obscure — not a random or representative sample."><span class="n-total">291</span> real
+      numbers.) We ran <strong class="hint" data-tip="<strong>How we picked them.</strong> Every one is a real person with an English Wikipedia article, drawn from Wikidata across seven occupations — politicians, actors, musicians, athletes, scientists, journalists and novelists. We sorted them by fame using monthly Wikipedia pageviews, from well-known (hundreds to thousands of views a month) down to obscure (dozens). A few extra groups were picked for specific tests, like UK politicians with common vs one-of-a-kind names across three fame levels. It's a deliberately wide spread from famous to obscure — not a random or representative sample."><span class="n-total">291</span> real
       people</strong> through it — from household names to the genuinely obscure — and looked for
       patterns.</p>
   </header>
@@ -97,21 +97,24 @@
   </section>
 
   <section>
-    <h2>A shared name costs you a little</h2>
-    <p>Does sharing your name with other notable people hurt? We compared German footballers whose
-      <em>full name</em> is theirs alone on Wikidata to ones whose <em>exact name</em> is shared by
-      several other notable people, matched on fame — so the only real difference is the name:</p>
-    <div id="name-experiment" class="predbars"></div>
+    <h2>A shared name hurts — but mostly if you're not already famous</h2>
+    <p>Does sharing your name with other notable people affect whether models know you?
+      We compared UK politicians whose <em>full name</em> is theirs alone on Wikidata
+      to ones whose <em>exact name</em> is shared by 4 or more other people
+      anywhere on Wikipedia,
+      matched on Wikipedia traffic within each fame band:</p>
+    <div id="name-experiment"></div>
     <p class="note" id="name-exp-note"></p>
   </section>
 
   <section class="takeaway">
     <h2>The short version</h2>
     <p>Whether a model "knows" a person tracks how often the world <strong>looks them up</strong>
-      — loosely. A shared name hurts a bit. And while the 13 models broadly agree on who ranks as
-      better- or lesser-known, they differ enormously in how confident they are overall — so
-      whether a borderline person counts as "in the weights" still comes down to which model you
-      ask.</p>
+      — loosely. A shared name hurts, but mainly for obscure people: in our UK politician sample,
+      the penalty drops from −12 points at low fame to near-zero for household names. And while
+      the 13 models broadly agree on who ranks as better- or lesser-known, they differ enormously
+      in how confident they are — so whether a borderline person counts as "in the weights" still
+      comes down to which model you ask.</p>
     <p class="note">Every number here describes <em>these <span class="n-total">291</span> people</em> — a deliberately wide
       spread from famous to obscure, not a random or representative sample. Read them as
       comparisons, not rates.</p>

@@ -3782,3 +3782,1290 @@ Zoë Ferraris,novelist,low,227,Meta Llama 3.2 1B Instruct,meta-llama/llama-3.2-1
 Éric Demarsan,musician,low,200,Mistral Small 3.2 24B Instruct,mistralai/mistral-small-3.2-24b-instruct,mid,2025-06,0,0,0,False,True
 Éric Demarsan,musician,low,200,Qwen3 8B,qwen/qwen3-8b,small,2025-04,0,0,0,False,True
 Éric Demarsan,musician,low,200,Meta Llama 3.2 1B Instruct,meta-llama/llama-3.2-1b-instruct,small,2023-12,0,0,0,False,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Bernard Henry Bourdillon,politician,gbpol_uniq_lo,586,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,openai/gpt-5.5,openai/gpt-5.5,,,92,92,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,50,50,1,True,True
+Thomas Flamank,politician,gbpol_uniq_lo,576,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Percy Sykes,politician,gbpol_uniq_lo,574,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Percy Sykes,politician,gbpol_uniq_lo,574,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Percy Sykes,politician,gbpol_uniq_lo,574,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Percy Sykes,politician,gbpol_uniq_lo,574,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,84,2,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Alf Morris,politician,gbpol_uniq_lo,592,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Alf Morris,politician,gbpol_uniq_lo,592,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Alf Morris,politician,gbpol_uniq_lo,592,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,0,0,0,False,True
+Alf Morris,politician,gbpol_uniq_lo,592,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Alf Morris,politician,gbpol_uniq_lo,592,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,50,50,1,True,True
+Alf Morris,politician,gbpol_uniq_lo,592,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+McKeeva Bush,politician,gbpol_uniq_lo,593,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Denis Pritt,politician,gbpol_uniq_lo,569,openai/gpt-5.5,openai/gpt-5.5,,,82,82,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Denis Pritt,politician,gbpol_uniq_lo,569,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Denis Pritt,politician,gbpol_uniq_lo,569,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,93,93,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Charles Hendry,politician,gbpol_uniq_lo,596,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,openai/gpt-5.5,openai/gpt-5.5,,,0,0,0,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,1,False,True
+Richard Gavin Reid,politician,gbpol_uniq_lo,597,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Ann Winterton,politician,gbpol_uniq_lo,597,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Ann Winterton,politician,gbpol_uniq_lo,597,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Ann Winterton,politician,gbpol_uniq_lo,597,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,97,97,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Ann Winterton,politician,gbpol_uniq_lo,597,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Ann Winterton,politician,gbpol_uniq_lo,597,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Claus Moser, Baron Moser",politician,gbpol_uniq_lo,567,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,openai/gpt-5.5,openai/gpt-5.5,,,92,92,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,77,77,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Harry Hylton-Foster,politician,gbpol_uniq_lo,567,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,88,88,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Elizabeth Symons, Baroness Symons of Vernham Dean",politician,gbpol_uniq_lo,566,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Colin Burgon,politician,gbpol_uniq_lo,566,openai/gpt-5.5,openai/gpt-5.5,,,92,92,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Colin Burgon,politician,gbpol_uniq_lo,566,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,92,92,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+Colin Burgon,politician,gbpol_uniq_lo,566,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Colin Burgon,politician,gbpol_uniq_lo,566,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Colin Burgon,politician,gbpol_uniq_lo,566,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Colin Burgon,politician,gbpol_uniq_lo,566,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,85,85,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,1,False,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Simon Mackay, Baron Tanlaw",politician,gbpol_uniq_lo,565,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Anne Begg,politician,gbpol_uniq_lo,564,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Anne Begg,politician,gbpol_uniq_lo,564,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Anne Begg,politician,gbpol_uniq_lo,564,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Angus Maude,politician,gbpol_uniq_lo,564,openai/gpt-5.5,openai/gpt-5.5,,,94,94,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Angus Maude,politician,gbpol_uniq_lo,564,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,97,97,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Angus Maude,politician,gbpol_uniq_lo,564,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Angus Maude,politician,gbpol_uniq_lo,564,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Angus Maude,politician,gbpol_uniq_lo,564,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,qwen/qwen3-8b,qwen/qwen3-8b,,,50,50,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Richard Marsh, Baron Marsh",politician,gbpol_uniq_lo,561,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+David Nuttall,politician,gbpol_uniq_lo,561,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+David Nuttall,politician,gbpol_uniq_lo,561,openai/gpt-5.5,openai/gpt-5.5,,,88,88,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+David Nuttall,politician,gbpol_uniq_lo,561,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,85,85,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+David Nuttall,politician,gbpol_uniq_lo,561,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+David Nuttall,politician,gbpol_uniq_lo,561,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+David Nuttall,politician,gbpol_uniq_lo,561,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Ian Lang, Baron Lang of Monkton",politician,gbpol_uniq_lo,604,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,0,0,0,False,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Cyril Garbett,politician,gbpol_uniq_lo,558,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,97,97,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Jonathan Edwards,politician,gbpol_shared_lo,581,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+George Adam,politician,gbpol_shared_lo,571,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+George Adam,politician,gbpol_shared_lo,571,openai/gpt-5.5,openai/gpt-5.5,,,85,85,1,True,True
+George Adam,politician,gbpol_shared_lo,571,x-ai/grok-4.20,x-ai/grok-4.20,,,60,60,1,True,True
+George Adam,politician,gbpol_shared_lo,571,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+George Adam,politician,gbpol_shared_lo,571,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+George Adam,politician,gbpol_shared_lo,571,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,70,70,1,True,True
+George Adam,politician,gbpol_shared_lo,571,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,55,55,1,True,True
+George Adam,politician,gbpol_shared_lo,571,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,72,72,1,True,True
+George Adam,politician,gbpol_shared_lo,571,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,85,85,1,True,True
+George Adam,politician,gbpol_shared_lo,571,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+George Adam,politician,gbpol_shared_lo,571,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+George Adam,politician,gbpol_shared_lo,571,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,20,20,1,True,True
+George Adam,politician,gbpol_shared_lo,571,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Liz Smith,politician,gbpol_shared_lo,596,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Liz Smith,politician,gbpol_shared_lo,596,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,83,79,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,98,1,True,True
+Liz Smith,politician,gbpol_shared_lo,596,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Liz Smith,politician,gbpol_shared_lo,596,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Liz Smith,politician,gbpol_shared_lo,596,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,70,67,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Thomas Ley,politician,gbpol_shared_lo,597,openai/gpt-5.5,openai/gpt-5.5,,,0,0,0,False,True
+Thomas Ley,politician,gbpol_shared_lo,597,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Thomas Ley,politician,gbpol_shared_lo,597,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Thomas Ley,politician,gbpol_shared_lo,597,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,0,0,0,False,True
+Thomas Ley,politician,gbpol_shared_lo,597,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Thomas Ley,politician,gbpol_shared_lo,597,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Thomas Ley,politician,gbpol_shared_lo,597,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,70,70,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Kevin Stewart,politician,gbpol_shared_lo,597,openai/gpt-5.5,openai/gpt-5.5,,,85,85,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Kevin Stewart,politician,gbpol_shared_lo,597,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,60,60,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,84,80,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,75,71,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,60,60,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+Kevin Stewart,politician,gbpol_shared_lo,597,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,0,0,0,False,True
+Kevin Stewart,politician,gbpol_shared_lo,597,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Kevin Stewart,politician,gbpol_shared_lo,597,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Kevin Stewart,politician,gbpol_shared_lo,597,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Kevin Stewart,politician,gbpol_shared_lo,597,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,openai/gpt-5.5,openai/gpt-5.5,,,86,86,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,86,86,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,50,50,1,True,True
+Thomas Woodcock,politician,gbpol_shared_lo,600,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,openai/gpt-5.5,openai/gpt-5.5,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,90,90,1,True,True
+Jessica Lee,politician,gbpol_shared_lo,605,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,35,35,1,True,True
+Jessica Lee,politician,gbpol_shared_lo,605,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Jessica Lee,politician,gbpol_shared_lo,605,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Jessica Lee,politician,gbpol_shared_lo,605,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Tim Stevens,politician,gbpol_shared_lo,559,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Tim Stevens,politician,gbpol_shared_lo,559,openai/gpt-5.5,openai/gpt-5.5,,,70,67,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Tim Stevens,politician,gbpol_shared_lo,559,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,75,68,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,72,68,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,60,60,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,45,45,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,85,85,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,90,90,1,True,True
+Tim Stevens,politician,gbpol_shared_lo,559,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Tim Stevens,politician,gbpol_shared_lo,559,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Tim Stevens,politician,gbpol_shared_lo,559,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Bob Russell,politician,gbpol_shared_lo,611,openai/gpt-5.5,openai/gpt-5.5,,,68,61,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Bob Russell,politician,gbpol_shared_lo,611,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Bob Russell,politician,gbpol_shared_lo,611,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,40,38,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,0,0,0,False,True
+Bob Russell,politician,gbpol_shared_lo,611,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,55,52,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,70,67,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,70,67,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,90,86,1,True,True
+Bob Russell,politician,gbpol_shared_lo,611,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Bob Russell,politician,gbpol_shared_lo,611,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Bob Russell,politician,gbpol_shared_lo,611,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Henry Bellingham,politician,gbpol_shared_lo,618,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Henry Bellingham,politician,gbpol_shared_lo,618,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,2,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,98,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Henry Bellingham,politician,gbpol_shared_lo,618,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Henry Bellingham,politician,gbpol_shared_lo,618,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,85,85,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+John Holmes,politician,gbpol_shared_lo,544,openai/gpt-5.5,openai/gpt-5.5,,,92,92,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,2,True,True
+John Holmes,politician,gbpol_shared_lo,544,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,82,78,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+John Holmes,politician,gbpol_shared_lo,544,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+John Holmes,politician,gbpol_shared_lo,544,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,openai/gpt-5.5,openai/gpt-5.5,,,93,93,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,94,2,True,True
+Michael Ball,politician,gbpol_shared_lo,540,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,89,2,True,True
+Michael Ball,politician,gbpol_shared_lo,540,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Michael Ball,politician,gbpol_shared_lo,540,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Michael Ball,politician,gbpol_shared_lo,540,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,98,98,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+John Oliver,politician,gbpol_shared_lo,533,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Stephen Williams,politician,gbpol_shared_lo,634,openai/gpt-5.5,openai/gpt-5.5,,,80,80,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Stephen Williams,politician,gbpol_shared_lo,634,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Stephen Williams,politician,gbpol_shared_lo,634,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,86,82,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,35,33,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,55,52,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,60,54,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,85,77,1,True,True
+Stephen Williams,politician,gbpol_shared_lo,634,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Stephen Williams,politician,gbpol_shared_lo,634,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Stephen Williams,politician,gbpol_shared_lo,634,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,70,67,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Anne McGuire,politician,gbpol_shared_lo,526,openai/gpt-5.5,openai/gpt-5.5,,,70,67,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,85,85,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Anne McGuire,politician,gbpol_shared_lo,526,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,85,85,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Anne McGuire,politician,gbpol_shared_lo,526,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,50,50,1,True,True
+Anne McGuire,politician,gbpol_shared_lo,526,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Terry Davis,politician,gbpol_shared_lo,640,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Terry Davis,politician,gbpol_shared_lo,640,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Terry Davis,politician,gbpol_shared_lo,640,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Terry Davis,politician,gbpol_shared_lo,640,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,qwen/qwen3-8b,qwen/qwen3-8b,,,50,50,1,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,openai/gpt-5.5,openai/gpt-5.5,,,0,0,0,False,True
+Leslie Wilson,politician,gbpol_shared_lo,524,x-ai/grok-4.20,x-ai/grok-4.20,,,40,40,1,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Leslie Wilson,politician,gbpol_shared_lo,524,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,44,44,1,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,0,0,0,False,True
+Leslie Wilson,politician,gbpol_shared_lo,524,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,0,0,0,False,True
+Leslie Wilson,politician,gbpol_shared_lo,524,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,45,53,3,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,0,0,0,False,True
+Leslie Wilson,politician,gbpol_shared_lo,524,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,0,0,0,False,True
+Leslie Wilson,politician,gbpol_shared_lo,524,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,20,20,1,True,True
+Leslie Wilson,politician,gbpol_shared_lo,524,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+David Drew,politician,gbpol_shared_lo,521,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+David Drew,politician,gbpol_shared_lo,521,openai/gpt-5.5,openai/gpt-5.5,,,82,82,1,True,True
+David Drew,politician,gbpol_shared_lo,521,x-ai/grok-4.20,x-ai/grok-4.20,,,60,60,1,True,True
+David Drew,politician,gbpol_shared_lo,521,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,90,90,1,True,True
+David Drew,politician,gbpol_shared_lo,521,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,82,82,1,True,True
+David Drew,politician,gbpol_shared_lo,521,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,40,40,1,True,True
+David Drew,politician,gbpol_shared_lo,521,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+David Drew,politician,gbpol_shared_lo,521,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+David Drew,politician,gbpol_shared_lo,521,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,85,85,1,True,True
+David Drew,politician,gbpol_shared_lo,521,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+David Drew,politician,gbpol_shared_lo,521,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+David Drew,politician,gbpol_shared_lo,521,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,50,50,1,True,True
+David Drew,politician,gbpol_shared_lo,521,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Ian Davidson,politician,gbpol_shared_lo,646,openai/gpt-5.5,openai/gpt-5.5,,,80,80,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,x-ai/grok-4.20,x-ai/grok-4.20,,,60,60,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,90,90,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Ian Davidson,politician,gbpol_shared_lo,646,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,0,0,0,False,True
+Ian Davidson,politician,gbpol_shared_lo,646,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,90,90,1,True,True
+Ian Davidson,politician,gbpol_shared_lo,646,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Ian Davidson,politician,gbpol_shared_lo,646,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Ian Davidson,politician,gbpol_shared_lo,646,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Richard Taylor,politician,gbpol_shared_lo,649,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Richard Taylor,politician,gbpol_shared_lo,649,openai/gpt-5.5,openai/gpt-5.5,,,90,90,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,x-ai/grok-4.20,x-ai/grok-4.20,,,60,60,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,80,72,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,78,70,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,80,76,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,70,67,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,85,81,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,90,86,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Richard Taylor,politician,gbpol_shared_lo,649,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,60,57,1,True,True
+Richard Taylor,politician,gbpol_shared_lo,649,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,70,67,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Willie Whitelaw,politician,gbpol_uniq_mid,4694,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,60,57,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Stafford Cripps,politician,gbpol_uniq_mid,4736,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,94,2,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,openai/gpt-5.5,openai/gpt-5.5,,,97,97,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Leo Amery,politician,gbpol_uniq_mid,4639,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Leo Amery,politician,gbpol_uniq_mid,4639,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,2,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Duncan Sandys,politician,gbpol_uniq_mid,4579,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,100,100,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Nicholas Stern, Baron Stern of Brentford",politician,gbpol_uniq_mid,4506,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Halford Mackinder,politician,gbpol_uniq_mid,4477,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,qwen/qwen3-8b,qwen/qwen3-8b,,,50,50,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Bernard Miles,politician,gbpol_uniq_mid,4248,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Tim Farron,politician,gbpol_uniq_mid,5153,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Tim Farron,politician,gbpol_uniq_mid,5153,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Gusty Spence,politician,gbpol_uniq_mid,4072,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Anna Soubry,politician,gbpol_uniq_mid,4055,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Alf Dubs, Baron Dubs",politician,gbpol_uniq_mid,5405,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,qwen/qwen3-8b,qwen/qwen3-8b,,,75,75,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,92,92,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Tristram Hunt,politician,gbpol_uniq_mid,3893,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,94,2,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Duff Cooper,politician,gbpol_uniq_mid,5503,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Geoff Hoon,politician,gbpol_uniq_mid,3791,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,84,2,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,92,92,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,1,False,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Edward Carson, Baron Carson",politician,gbpol_uniq_mid,5814,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+"Helena Kennedy, Baroness Kennedy of The Shaws",politician,gbpol_uniq_mid,5820,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Archibald Maule Ramsay,politician,gbpol_uniq_mid,3552,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,openai/gpt-5.5,openai/gpt-5.5,,,97,97,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Caroline Nokes,politician,gbpol_uniq_mid,3536,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,100,2,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,92,92,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Kate Hoey,politician,gbpol_uniq_mid,5849,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,94,2,True,True
+Harold Nicolson,politician,gbpol_uniq_mid,5926,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Nick Brown,politician,gbpol_shared_mid,4665,openai/gpt-5.5,openai/gpt-5.5,,,92,92,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Nick Brown,politician,gbpol_shared_mid,4665,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Nick Brown,politician,gbpol_shared_mid,4665,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,72,72,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,70,70,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,0,0,0,False,True
+Nick Brown,politician,gbpol_shared_mid,4665,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Nick Brown,politician,gbpol_shared_mid,4665,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Nick Brown,politician,gbpol_shared_mid,4665,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Nick Brown,politician,gbpol_shared_mid,4665,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,92,92,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Keith Joseph,politician,gbpol_shared_mid,4730,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,openai/gpt-5.5,openai/gpt-5.5,,,91,91,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Steve Baker,politician,gbpol_shared_mid,4636,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,86,86,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,98,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Steve Baker,politician,gbpol_shared_mid,4636,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+John Woodcock,politician,gbpol_shared_mid,4748,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+John Woodcock,politician,gbpol_shared_mid,4748,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,93,93,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+John Woodcock,politician,gbpol_shared_mid,4748,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+John Woodcock,politician,gbpol_shared_mid,4748,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+John Woodcock,politician,gbpol_shared_mid,4748,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+John Woodcock,politician,gbpol_shared_mid,4748,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,0,0,0,False,True
+Mervyn King,politician,gbpol_shared_mid,4454,qwen/qwen3-8b,qwen/qwen3-8b,,,70,70,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Mervyn King,politician,gbpol_shared_mid,4454,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Mervyn King,politician,gbpol_shared_mid,4454,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,97,97,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,98,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Martin Bell,politician,gbpol_shared_mid,4425,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Kurt Hahn,politician,gbpol_shared_mid,5074,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Tom Watson,politician,gbpol_shared_mid,5234,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,81,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,93,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Tom Watson,politician,gbpol_shared_mid,5234,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,60,57,1,True,True
+Tom Watson,politician,gbpol_shared_mid,5234,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,70,67,1,True,True
+Michael Martin,politician,gbpol_shared_mid,4121,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,openai/gpt-5.5,openai/gpt-5.5,,,85,85,1,True,True
+Michael Martin,politician,gbpol_shared_mid,4121,x-ai/grok-4.20,x-ai/grok-4.20,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Michael Martin,politician,gbpol_shared_mid,4121,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,75,71,1,True,True
+Michael Martin,politician,gbpol_shared_mid,4121,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Michael Martin,politician,gbpol_shared_mid,4121,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Michael Martin,politician,gbpol_shared_mid,4121,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+David Trimble,politician,gbpol_shared_mid,5295,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+David Trimble,politician,gbpol_shared_mid,5295,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Norman Lamont,politician,gbpol_shared_mid,5321,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Norman Lamont,politician,gbpol_shared_mid,5321,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Philip Hammond,politician,gbpol_shared_mid,5637,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,openai/gpt-5.5,openai/gpt-5.5,,,93,93,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,92,92,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Jim O'Neill,politician,gbpol_shared_mid,5663,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,qwen/qwen3-8b,qwen/qwen3-8b,,,50,50,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,openai/gpt-5.5,openai/gpt-5.5,,,91,91,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,3,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,60,57,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,75,75,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,98,1,True,True
+Ian Murray,politician,gbpol_shared_mid,5668,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Ian Murray,politician,gbpol_shared_mid,5668,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,0,0,0,False,True
+Ian Murray,politician,gbpol_shared_mid,5668,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,openai/gpt-5.5,openai/gpt-5.5,,,92,92,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,95,95,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+William Temple,politician,gbpol_shared_mid,3693,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+William Temple,politician,gbpol_shared_mid,3693,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Geoffrey Cox,politician,gbpol_shared_mid,3620,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Greg Clark,politician,gbpol_shared_mid,3616,openai/gpt-5.5,openai/gpt-5.5,,,90,90,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,90,90,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,92,92,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,80,80,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,90,90,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,95,95,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Greg Clark,politician,gbpol_shared_mid,3616,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Greg Clark,politician,gbpol_shared_mid,3616,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Alok Sharma,politician,gbpol_shared_mid,3548,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,85,85,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,98,98,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Alok Sharma,politician,gbpol_shared_mid,3548,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Alok Sharma,politician,gbpol_shared_mid,3548,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,x-ai/grok-4.20,x-ai/grok-4.20,,,70,70,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,96,96,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Arthur Henderson,politician,gbpol_shared_mid,3346,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,openai/gpt-5.5,openai/gpt-5.5,,,96,96,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Robert Stephenson,politician,gbpol_shared_mid,6098,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,98,98,1,True,True
+Nawaz Sharif,politician,gbpol_uniq_hi,62696,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,2,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,97,97,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Anthony Eden,politician,gbpol_uniq_hi,67115,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,openai/gpt-5.5,openai/gpt-5.5,,,100,100,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,98,100,2,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Jerry Springer,politician,gbpol_uniq_hi,69820,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,98,98,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Bernard Montgomery,politician,gbpol_uniq_hi,54787,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Harold Macmillan,politician,gbpol_uniq_hi,49817,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Ed Miliband,politician,gbpol_uniq_hi,46411,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,94,2,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,90,90,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Laurence Fox,politician,gbpol_uniq_hi,81065,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Glenda Jackson,politician,gbpol_uniq_hi,40789,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,100,2,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,97,97,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Alan Sugar,politician,gbpol_uniq_hi,34422,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,openai/gpt-5.5,openai/gpt-5.5,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,98,98,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Nicola Sturgeon,politician,gbpol_uniq_hi,32676,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,95,95,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,92,92,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Liz Kendall,politician,gbpol_uniq_hi,31006,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,x-ai/grok-4.20,x-ai/grok-4.20,,,95,95,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,98,100,4,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Boris Johnson,politician,gbpol_uniq_hi,144512,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+John Major,politician,gbpol_shared_hi,74207,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+John Major,politician,gbpol_shared_hi,74207,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+John Major,politician,gbpol_shared_hi,74207,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+John Major,politician,gbpol_shared_hi,74207,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+John Major,politician,gbpol_shared_hi,74207,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+John Major,politician,gbpol_shared_hi,74207,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+John Major,politician,gbpol_shared_hi,74207,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+John Major,politician,gbpol_shared_hi,74207,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+John Major,politician,gbpol_shared_hi,74207,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+John Major,politician,gbpol_shared_hi,74207,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+John Major,politician,gbpol_shared_hi,74207,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,1,False,True
+John Major,politician,gbpol_shared_hi,74207,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+John Major,politician,gbpol_shared_hi,74207,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,100,100,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,98,98,1,True,True
+Gordon Brown,politician,gbpol_shared_hi,77361,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,qwen/qwen3-8b,qwen/qwen3-8b,,,90,90,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,100,100,1,True,True
+Harold Wilson,politician,gbpol_shared_hi,82937,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,qwen/qwen3-8b,qwen/qwen3-8b,,,95,95,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,openai/gpt-5.5,openai/gpt-5.5,,,99,99,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,100,100,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,98,100,2,True,True
+David Cameron,politician,gbpol_shared_hi,86401,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,95,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,100,100,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,98,98,1,True,True
+David Cameron,politician,gbpol_shared_hi,86401,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,95,95,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,qwen/qwen3-8b,qwen/qwen3-8b,,,0,0,0,False,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,99,99,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,100,3,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,90,1,True,True
+Alastair Campbell,politician,gbpol_shared_hi,38299,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,90,90,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,openai/gpt-5.5,openai/gpt-5.5,,,95,95,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,x-ai/grok-4.20,x-ai/grok-4.20,,,80,80,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,90,90,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,85,85,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,85,85,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,0,0,0,False,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,80,80,1,True,True
+Altaf Hussain,politician,gbpol_shared_hi,32171,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,qwen/qwen3-8b,qwen/qwen3-8b,,,85,85,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,openai/gpt-5.5,openai/gpt-5.5,,,98,98,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,x-ai/grok-4.20,x-ai/grok-4.20,,,90,90,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,z-ai/glm-4.7-flash,z-ai/glm-4.7-flash,,,100,100,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,openai/gpt-5.4-mini,openai/gpt-5.4-mini,,,98,98,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,moonshotai/kimi-k2-0905,moonshotai/kimi-k2-0905,,,95,95,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,anthropic/claude-opus-4.8,anthropic/claude-opus-4.8,,,95,95,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,anthropic/claude-haiku-4.5,anthropic/claude-haiku-4.5,,,95,99,2,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,deepseek/deepseek-v4-flash,deepseek/deepseek-v4-flash,,,95,95,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,google/gemini-3.1-flash-lite,google/gemini-3.1-flash-lite,,,100,100,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,meta-llama/llama-3.2-1b-instruct,meta-llama/llama-3.2-1b-instruct,,,90,90,1,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,meta-llama/llama-3.3-70b-instruct,meta-llama/llama-3.3-70b-instruct,,,90,94,2,True,True
+Robert Maxwell,politician,gbpol_shared_hi,271942,mistralai/mistral-small-3.2-24b-instruct,mistralai/mistral-small-3.2-24b-instruct,,,80,80,1,True,True

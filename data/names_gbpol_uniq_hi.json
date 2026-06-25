@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Nawaz Sharif",
+    "category": "politician",
+    "wikipedia_title": "Nawaz_Sharif",
+    "wikidata_id": "Q134068",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 62696,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "nawaz-sharif",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Anthony Eden",
+    "category": "politician",
+    "wikipedia_title": "Anthony_Eden",
+    "wikidata_id": "Q128995",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 67115,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "anthony-eden",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Jerry Springer",
+    "category": "politician",
+    "wikipedia_title": "Jerry_Springer",
+    "wikidata_id": "Q27214",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 69820,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "jerry-springer",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Bernard Montgomery",
+    "category": "politician",
+    "wikipedia_title": "Bernard_Montgomery",
+    "wikidata_id": "Q152025",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 54787,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "bernard-montgomery",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Harold Macmillan",
+    "category": "politician",
+    "wikipedia_title": "Harold_Macmillan",
+    "wikidata_id": "Q128985",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 49817,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "harold-macmillan",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Ed Miliband",
+    "category": "politician",
+    "wikipedia_title": "Ed_Miliband",
+    "wikidata_id": "Q216594",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 46411,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "ed-miliband",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Laurence Fox",
+    "category": "politician",
+    "wikipedia_title": "Laurence_Fox",
+    "wikidata_id": "Q1189353",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 81065,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "laurence-fox",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Glenda Jackson",
+    "category": "politician",
+    "wikipedia_title": "Glenda_Jackson",
+    "wikidata_id": "Q182408",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 40789,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "glenda-jackson",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Alan Sugar",
+    "category": "politician",
+    "wikipedia_title": "Alan_Sugar",
+    "wikidata_id": "Q336520",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 34422,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "alan-sugar",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Nicola Sturgeon",
+    "category": "politician",
+    "wikipedia_title": "Nicola_Sturgeon",
+    "wikidata_id": "Q467112",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 32676,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "nicola-sturgeon",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Liz Kendall",
+    "category": "politician",
+    "wikipedia_title": "Liz_Kendall",
+    "wikidata_id": "Q750260",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 31006,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "liz-kendall",
+    "occupations": [
+      "politician"
+    ]
+  },
+  {
+    "name": "Boris Johnson",
+    "category": "politician",
+    "wikipedia_title": "Boris_Johnson",
+    "wikidata_id": "Q180589",
+    "name_collisions": 1,
+    "pageviews_monthly_avg": 144512,
+    "fame_tier": "gbpol_uniq_hi",
+    "fame_label": "Unique-name UK politician (hi fame)",
+    "slug": "boris-johnson",
+    "occupations": [
+      "politician"
+    ]
+  }
+]
