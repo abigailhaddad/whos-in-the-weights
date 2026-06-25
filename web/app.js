@@ -223,8 +223,15 @@ function renderNameExperiment(data) {
     const bar = (v, color) =>
       `<div class="pb-track" style="flex:1"><div class="pb-fill" style="width:${(v/max*100).toFixed(0)}%;background:${color}"></div></div>` +
       `<div class="pb-val" style="color:${color}">${Math.round(v)}</div>`;
+    const ex = b.examples;
+    const exHtml = ex
+      ? `<div class="ne-examples">` +
+        `<span class="ne-ex ne-ex-u">${ex.uniq.name} <strong>${ex.uniq.score}</strong></span>` +
+        `<span class="ne-ex ne-ex-s">${ex.shared.name} <strong>${ex.shared.score}</strong></span>` +
+        `</div>`
+      : "";
     return `<div class="ne-row">` +
-      `<div class="ne-band"><strong>${b.label}</strong><span class="ne-pv">${b.pv_label}</span></div>` +
+      `<div class="ne-band"><strong>${b.label}</strong><span class="ne-pv">${b.pv_label}</span>${exHtml}</div>` +
       `<div class="ne-cell">${bar(b.unique.mean, INK)}</div>` +
       `<div class="ne-cell">${bar(b.shared.mean, "#94a3b8")}</div>` +
       `<div class="ne-gap" style="background:${gapBg};color:${gapColor}">${b.gap >= 0 ? "−" : "+"}${gapAbs.toFixed(0)} pts</div>` +

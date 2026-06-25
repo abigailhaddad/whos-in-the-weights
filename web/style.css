@@ -109,6 +109,11 @@ section.finding { border-top: none; }
 .ne-cell { display: flex; align-items: center; gap: 8px; }
 .ne-col-label { font-size: .75rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 .ne-gap { font-size: .82rem; font-weight: 700; text-align: center; padding: 3px 6px; border-radius: 5px; font-variant-numeric: tabular-nums; }
+.ne-examples { margin-top: 5px; display: flex; flex-direction: column; gap: 2px; }
+.ne-ex { font-size: .78rem; }
+.ne-ex-u { color: var(--ink); }
+.ne-ex-s { color: var(--text); }
+.ne-ex strong { font-weight: 700; }
 
 /* ---- model lineup ---- */
 .lineup { margin: 1.4em 0 .2em; display: flex; flex-direction: column; gap: 6px; }

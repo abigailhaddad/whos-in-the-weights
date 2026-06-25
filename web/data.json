@@ -1256,7 +1256,17 @@
           "n": 20,
           "threshold": 4
         },
-        "gap": 12.0
+        "gap": 12.0,
+        "examples": {
+          "uniq": {
+            "name": "Percy Sykes",
+            "score": 68
+          },
+          "shared": {
+            "name": "Anne McGuire",
+            "score": 53
+          }
+        }
       },
       "mid": {
         "label": "Mid fame",
@@ -1270,7 +1280,17 @@
           "n": 20,
           "threshold": 4
         },
-        "gap": 9.3
+        "gap": 9.3,
+        "examples": {
+          "uniq": {
+            "name": "Leo Amery",
+            "score": 85
+          },
+          "shared": {
+            "name": "Steve Baker",
+            "score": 77
+          }
+        }
       },
       "hi": {
         "label": "High fame",
@@ -1284,7 +1304,17 @@
           "n": 7,
           "threshold": 4
         },
-        "gap": 0.4
+        "gap": 0.4,
+        "examples": {
+          "uniq": {
+            "name": "Nicola Sturgeon",
+            "score": 90
+          },
+          "shared": {
+            "name": "John Major",
+            "score": 89
+          }
+        }
       }
     },
     "caption": "UK politicians matched on Wikipedia pageviews — unique full name vs. name shared by 4+ other people anywhere on Wikipedia. 13 models, n=20 per group (lo/mid), n=7–12 (hi). The gap shrinks from −12 pts at low fame to near-zero at high fame."
