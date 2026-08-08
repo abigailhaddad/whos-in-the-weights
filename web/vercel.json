@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "whos-in-the-weights.vercel.app"
+        }
+      ],
+      "destination": "https://whos-in-the-weights.abigailhaddad.com/",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "whos-in-the-weights.vercel.app"
+        }
+      ],
+      "destination": "https://whos-in-the-weights.abigailhaddad.com/:path*",
+      "permanent": false
+    }
+  ]
+}
