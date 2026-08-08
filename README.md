@@ -2,7 +2,7 @@
 
 A small experiment in **which kinds of people language models know.**
 
-- **Live site:** https://whos-in-the-weights.vercel.app
+- **Live site:** https://whos-in-the-weights.abigailhaddad.com
 - **Data source:** [intheweights.com](https://intheweights.com), which asks 13 models, for one
   person at a time, how confident each is that it knows who that person is (a 0–100 score per model).
 
